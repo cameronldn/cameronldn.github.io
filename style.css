@@ -26,7 +26,8 @@ ul {
 }
 
 i {
-    padding: 0 7px 0 0;
+    position: absolute;
+    margin-right: 80%;
 }
 
 .button-raised {
@@ -43,11 +44,11 @@ i {
     display: inline-flex;
     font-family: "JetBrains Mono",monospace;
     height: 48px;
-    justify-content: left;
+    justify-content: center;
     line-height: 1;
     list-style: none;
     overflow: hidden;
-    padding-left: 35%;
+    padding-left: 5%;
     padding-right: 16px;
     margin: 5px;
     position: relative;
